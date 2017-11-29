@@ -4,7 +4,7 @@
 
 Início da Iteração | Término da iteração
 ------------ | -------------
-06/11/2017 | 29/11/2017
+16/11/2017 | 29/11/2017
 
 
 ### O que estava planejado
