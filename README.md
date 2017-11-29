@@ -15,9 +15,9 @@ This is a practical academic exercise to incentive the study of DevOps and Softw
 2. [x] Write the verification of **Cliente** during recording of a new **Pedido**;
 3. [x] Write automated tests (Unit Tests);
 4. [x] Pass tests trough pipeline (https://circleci.com/ or Jenkins) using docker;
-5. [ ] Deploy Services on Google Cloud or Amazon AWS;
+5. [x] Deploy Services on Google Cloud or Amazon AWS;
 6. [ ] Monitor the the record of new **pedidos** with Elastic Search;
-7. [ ] Replicate PEDIDO service (>2 instances) and support availability of ecosystem;
+7. [x] Replicate PEDIDO service (>2 instances) and support availability of ecosystem;
 
 ### Teacher acceptance tests
 
